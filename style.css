@@ -488,7 +488,7 @@ position:absolute;
     position: relative;
     transform: rotateY(0deg);
     z-index: 2;
-    margin-bottom: 30px;
+    margin-bottom: 10rem;
 }
 
 .side-two {
